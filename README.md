@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Aawesh.sayyed7@gmail.com**
 
-- ⚡ Fun fact **I am a mechanical engineer who likes softwares :D**
+- ⚡ Fun fact **I am a mechanical engineer who is in software field :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
