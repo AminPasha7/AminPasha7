@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aawesh Sayyed, I like to be called Amin.</h1>
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<h1 align="center">Hi 👋, I'm Aawesh Sayyed, I like to be called Amin.</h1>
+
 <h3 align="center">A passionate Tech Geek, learning new technologies is my passion.</h3>
 <img align="center" alt="Coding" width="1000" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
