@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **AI, Automation, ChatGP, Bard**
 
-- 📫 How to reach me **Aawesh.sayyed7@gmail.com**
+- 📫 How to reach me **iaminsyed7@gmail.com**
 
 - ⚡ Fun fact **I am a mechanical engineer who is in software field :D**
 
