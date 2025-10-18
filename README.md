@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **iaminsyed7@gmail.com**
 
-- ⚡ Fun fact **I am a mechanical engineer who is in software field :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
