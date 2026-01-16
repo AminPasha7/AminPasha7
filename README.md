@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **AI, Automation, ChatGP, Bard**
 
-- 📫 How to reach me **iaminsyed7@gmail.com**
+- 📫 How to reach me **amin-syed@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
